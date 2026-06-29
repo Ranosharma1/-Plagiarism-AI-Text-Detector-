@@ -1,4 +1,4 @@
-# -Plagiarism-AI-Text-Detector-# Plagiarism & AI Text Detector
+# Plagiarism & AI Text Detector
 
 A web-based application that helps users analyze text for plagiarism and estimate whether content is AI-generated. The project combines text similarity techniques with natural language processing to provide fast, easy-to-understand results through a clean and responsive interface.
 
